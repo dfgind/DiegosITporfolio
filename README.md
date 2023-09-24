@@ -4,7 +4,7 @@
 
 A simple portfolio website to showcase your work and projects. <a href="https://muhammadmubeen17.github.io/simple-portfolio-website" target="_blank">Click here to visit</a>
 <div align="center">
-  <a href="https://muhammadmubeen17.github.io/simple-portfolio-website" target="_blank"><img alt="Demo" src="./screenshots/Portfolio-Websites.png" /></a>
+  <a href="https://dfgind.github.io/DiegosITporfolio/" target="_blank"><img alt="Demo" src="./screenshots/Portfolio-Websites.png" /></a>
 </div>
 
 <br/>
